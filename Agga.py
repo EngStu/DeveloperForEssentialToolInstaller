@@ -86,7 +86,7 @@ elif UserChoose == '02':
     print(""" 
      [02] : Manual
      """)
-    a = input("Enter Your Choose :")    
+    a = input("Enter Your Choose (Example - 1,2,3,4,etc... :")    
     Mondule.Manual(a)
 elif UserChoose == '00':
     print("Exit")
